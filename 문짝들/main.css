@@ -107,6 +107,6 @@ h1.title {
   transform: rotate(45deg);
 }
 
-
+/* 이미지하나로 전체 연동 */
 .door2:nth-child(n) .image2 { background-image: url("https://t1.daumcdn.net/crms/symbol_img/symbol_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1.png"); }
 
